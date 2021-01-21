@@ -1,0 +1,71 @@
+<html>
+
+<head>
+
+<title></title>
+
+</head>
+
+<body 
+
+ <body bgcolor="yellow">
+
+<u>The world is now suffering <br> from corona virus </u>
+
+<br> Let us always pray for our health. <br> <br>
+
+ 
+
+
+
+<p align="center"><br><img src="week3/sun.jpg" width = "210" , length = "210"> </img><br> 
+
+The sunshine is so bright <br>
+
+It gives hope to everyone <br> <br>
+
+ 
+
+<img src ="week3/circle.jpg",width = "300", length = "300"> </img> <br>
+
+It’s a small <br>
+
+<b>World after all</b> <br> <br> </p>
+
+ 
+<p align="right">
+<img src ="week3/smiley.jpg",length= "450" , width = "450"> </img><br>
+
+<b>Always wear a smile, </b><br> you might inspire somebody <br> with it. </p>
+
+<br>
+<br>
+<body bgcolor="FFCCOO"> <br>
+<p align="center"><H1> WEEK 3: DAY 1 & 2 </H1><br>
+<b><font color="red", size="1">“Beginning today, I will create a new future by creating a new me. </font><br>
+
+<font color="black", size="2">No longer will I dwell in a pit of despair,</font><br>
+
+<font color="red", size="3">moaning over squandered time and lost opportunity.</font><br>
+
+<font color="black", size="5">I can do nothing about the past.  My future is immediate.</font><br>
+
+<font color="red",size="5">I will grasp it in both hands and carry it with running feet.</font><br>
+
+<font color="black", size="5">When I am faced with the choice of doing nothing or doing something,</font><br>
+
+<font color="red", size="5">I will always choose to act!  I seize this moment. </font><br></b>
+
+<font color="black", size="5"> I choose now.” ~ </font><br>
+
+<font color="red", size= "2">Andy Andrews </font><br>
+
+<p align="right"><img src="week3/paris.jpg",length="210",width="210"></img> <br>
+<p align=center> <font style= "verdana"<font color="purple", size= "10"> Hazeil Jane Sombero </font>
+
+
+		
+</body>
+</html>
+
+ 
